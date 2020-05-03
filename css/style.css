@@ -470,6 +470,11 @@ nav li {
 	display: flex;
 }
 
+.credit {
+	border-top: solid 0.1px rgb(60, 60, 60);
+	padding-top: 1rem;
+}
+
 /* STICKY CSS */
 
 .main {
